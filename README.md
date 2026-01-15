@@ -1,16 +1,13 @@
-## Hi there 👋
+# Brittany Wallace
 
-<!--
-**bwallace11/bwallace11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student and resident hermit
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Front-End Web Design
+* UX Design
+* Computer Building
+
+## Socials
+
+* [LinkedIn Profile](https://www.linkedin.com/in/brittany-wallace-1aa170a8/)
