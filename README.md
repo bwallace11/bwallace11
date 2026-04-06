@@ -74,7 +74,7 @@ more intention
 
 <p align="center">
   <a href="https://github.com/bwallace11">GitHub</a> •
-  <a href="#">Portfolio</a>
+  <a href="https://wallace-playground.netlify.app/">Portfolio</a>
 </p>
 
 ---
